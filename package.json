@@ -1,0 +1,16 @@
+{
+  "name": "new-relic-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "react": "^0.14.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
